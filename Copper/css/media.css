@@ -1,0 +1,146 @@
+@media screen and (max-width:1420px) {
+    .box_hp {
+        left: 1050px;
+    }
+    .box_person {
+        left: 1120px;
+    }
+    .box_korzinka {
+        left: 1190px;
+    }
+}
+
+@media screen and (max-width:1250px) {
+    .box_hp {
+        left: 880px;
+    }
+    .box_person {
+        left: 950px;
+    }
+    .box_korzinka {
+        left: 1020px;
+    }
+}
+
+@media screen and (max-width:1080px) {
+    .box_hp {
+        left: 800px;
+    }
+    .box_person {
+        left: 870px;
+    }
+    .box_korzinka {
+        left: 940px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .navbar {
+        flex-direction: column;
+        align-items: start;
+    }
+    .header {
+        padding-left: 55px;
+    }
+    .menu_navbar {
+        margin-left: 50px;
+    }
+    .box_hp {
+        left: 560px;
+    }
+    .box_person {
+        left: 630px;
+    }
+    .box_korzinka {
+        left: 700px;
+    }
+    .header {
+        background-image: url(../assets/images/media_bc.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    .box_kibiki {
+        margin-top: 224px;
+    }
+    .one_box1 {
+        height: 300px;
+        padding-bottom: 5px;
+    }
+    .one_box2 {
+        height: 300px;
+        padding-bottom: 5px;
+    }
+    .one_box3 {
+        height: 300px;
+        padding-bottom: 5px;
+    }
+    .one_box4 {
+        height: 300px;
+        padding-bottom: 5px;
+    }
+    .one_box5 {
+        height: 300px;
+        padding-bottom: 5px;
+    }
+    .one_box6 {
+        height: 300px;
+        padding-bottom: 5px;
+    }
+    .two .col-4:first-child {
+        display: none;
+    }
+    .full {
+        display: none;
+    }
+    .planshet {
+        display: flex;
+    }
+    .eight {
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .navbar {
+        width: 100%;
+    }
+    .box_hp {
+        left: 350px;
+    }
+    .box_person {
+        left: 420px;
+    }
+    .box_korzinka {
+        left: 490px;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .menu_navbar {
+        display: none;
+    }
+    .box_korzinka {
+        display: none;
+    }
+    .box_hp {
+        left: 200px;
+    }
+    .box_person {
+        left: 270px;
+    }
+    .header {
+        padding-left: 10px;
+    }
+    .kupit {
+        padding: 16px 100px 17px 100px;
+    }
+    .planshet {
+        display: none;
+    }
+    .small {
+        display: flex;
+    }
+    .media_full {
+        display: none;
+    }
+}
